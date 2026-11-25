@@ -1,0 +1,14 @@
+# .NET build & publish outputs
+bin/
+obj/
+release/
+*.user
+*.suo
+*.cache
+.vs/
+
+# Local runtime / test artifacts
+UserData/
+General.ini
+log_client.txt
+*.log
